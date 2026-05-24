@@ -1,0 +1,45 @@
+{
+  "version": 2,
+  "routes": [
+    {
+      "src": "/",
+      "dest": "/index.html"
+    },
+    {
+      "src": "/how-to-get-car-finance-approved-nigeria",
+      "dest": "/how-to-get-car-finance-approved-nigeria.html"
+    },
+    {
+      "src": "/comprehensive-vs-third-party-insurance-nigeria",
+      "dest": "/comprehensive-vs-third-party-insurance-nigeria.html"
+    },
+    {
+      "src": "/fleet-finance-sme-nigeria-guide",
+      "dest": "/fleet-finance-sme-nigeria-guide.html"
+    },
+    {
+      "src": "/nigeria-car-market-update-may-2026",
+      "dest": "/nigeria-car-market-update-may-2026.html"
+    },
+    {
+      "src": "/7-car-buying-mistakes-nigerians-make",
+      "dest": "/7-car-buying-mistakes-nigerians-make.html"
+    },
+    {
+      "src": "/tokunbo-car-guide-nigeria-2026",
+      "dest": "/tokunbo-car-guide-nigeria-2026.html"
+    },
+    {
+      "src": "/understanding-car-insurance-nigeria-guide",
+      "dest": "/understanding-car-insurance-nigeria-guide.html"
+    },
+    {
+      "src": "/findrive-nigeria-launches-july-2026",
+      "dest": "/findrive-nigeria-launches-july-2026.html"
+    },
+    {
+      "src": "/(.*)",
+      "dest": "/$1.html"
+    }
+  ]
+}
